@@ -1,0 +1,31 @@
+{
+  "name": "langguessr",
+  "version": "1.0.0",
+  "description": "Scuffed wannabe GeoGuessr but for languages via CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearsterns/LangGuessr.git"
+  },
+  "keywords": [
+    "languages",
+    "language",
+    "lang",
+    "langs",
+    "game",
+    "guess"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bearsterns/LangGuessr/issues"
+  },
+  "homepage": "https://github.com/bearsterns/LangGuessr#readme",
+  "dependencies": {
+    "franc-all": "^6.0.0",
+    "langs": "^2.0.0"
+  }
+}

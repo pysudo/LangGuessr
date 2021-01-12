@@ -1,0 +1,2 @@
+// Ignores dependencies, use npm install instead via package.json
+node_modules/
